@@ -1,0 +1,155 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.vertical-nav {
+    width: 250px;
+    height: 100vh;
+    background-color: #343a40;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding-top: 20px;
+}
+
+.admin-profile {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    padding: 0 20px;
+}
+
+.admin-profile img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 20px;
+}
+
+.admin-profile div {
+    color: white;
+}
+
+.admin-profile h4 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.admin-profile p {
+    margin: 0;
+    font-size: 14px;
+}
+
+.nav-link {
+    color: white;
+    font-size: 16px;
+}
+
+.nav-link:hover {
+    background-color: #495057;
+    color: white;
+}
+
+.nav-link i {
+    margin-right: 10px;
+}
+
+.navbar-header {
+    margin-bottom: 10px;
+    font-size: 14px;
+    font-weight: bold;
+    padding-left: 15px;
+    color: white;
+    background-color: #343a40;
+}
+
+.nav-item .collapse {
+    padding-left: 20px;
+}
+
+.hov:hover {
+    cursor: pointer;
+}
+
+/* Fixing the navbar and page header */
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 250px;
+    width: calc(100% - 250px);
+    z-index: 1000;
+}
+
+.page-header {
+	height:60px;
+    position: fixed;
+    top: 56px; /* Adjust this based on the navbar height */
+    left: 250px;
+    width: calc(100% - 250px);
+    padding: 20px;
+    background-color: #ffffff;
+    border-bottom: 1px solid #dee2e6;
+    z-index: 999;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.page-header h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+.page-header h1:hover {
+    cursor: pointer;
+    color: blue;
+}
+
+.page-header h4 {
+    font-size: 16px;
+    margin: 0;
+    color: #6c757d;
+}
+
+.breadcrumb {
+    margin: 0;
+    padding: 0;
+    background: none;
+    font-size: 16px;
+}
+
+.breadcrumb-item+.breadcrumb-item::before {
+    content: ">";
+}
+
+.page-header i:hover{
+cursor:pointer;
+color:blue;
+}
+
+
+
+
+
+.footer {
+	position:relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    color: white;
+    font-size: 14px;
+    margin-left: 250px;
+    background-color: gray;
+    height: 45px;
+    position: fixed;
+    bottom: 0;
+    width: calc(100% - 250px);
+    z-index: 998;
+}
