@@ -52,6 +52,6 @@
 
 # Author :-
 <h4>Ganesh B.</h4>
-<textarea>2nd Cross Rd, Javarandoddi, Rajarajeshwari Nagar, Bengaluru, Karnataka 560098</textarea>
+<p>2nd Cross Rd, Javarandoddi, Rajarajeshwari Nagar, Bengaluru, Karnataka 560098</p>
 
 
