@@ -47,7 +47,7 @@
   <li>go to lib Folder and Select Both 'mysql-connector-j-8.3.0.jar' and 'servlet-api.jar' </li>
   <li>'Apply and colse'</li>
 </ul>
-<p>Step 8: Create one and run the Apache Tomcat Server inside the project</p>
+<p>Step 8: Create one Apache Tomcat Server and run the project.</p>
 <p>Step 9: Finally Right Click on the projct the click on 'Run as' -> 'Run on server'.</p>
 
 # Author :-
