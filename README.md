@@ -10,7 +10,7 @@
 <h1>Technologies Used in this Project</h1></h1>
 <ol>
   <li>JSP - >All the Pages are designed by using JSP -> You Should Know Basic Syntax of JSP.</li>
-  <li>JDBC -> Connection between User Interface to Database -> Atleast You Should know the CRUD Operations.</li>
+  <li>JDBC -> Connection between User Interface to Database -> Atleast You Should know the CRUD Operations in SQL.</li>
   <li>Botstrap -> For User Interface Framework -> You Should know some basics of Bootstrap.</li>
   <li>JavaScript -> For Dynamic interaction -> basics of DOM Operations You Should Know.</li>
 </ol>
