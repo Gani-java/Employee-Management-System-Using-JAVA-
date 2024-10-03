@@ -34,7 +34,7 @@
 <p>Step 2: Extract the zip folder.</p>
 <p>Step 3: Create one folder named 'Web Based EMS Project' in Your Loacl Machine either C or D any Drive.</p>
 <p>Step 4: Inside the 'Web Based EMS Project' folder you need to create one folder named 'EMS-Project'. </p>
-<p>Step 5: After creating the 'EMS-Project' Folder past the Extracted code inside the 'EMS-Project' folder.</p>
+<p>Step 5: After creating the 'EMS-Project' Folder paste the Extracted code inside the 'EMS-Project' folder.</p>
 <p>Step 6: Open the eclipse-jee and while selecting the work space you need to select 'Web Based EMS Project' folder and Launch the project. </p>
 <p>Step 7: After Launching the project You Should select and configure the Both 2 jar files inside your proect.</p>
 <ul>
