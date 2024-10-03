@@ -32,6 +32,7 @@
 <h4>You Can clone the repository in your local Machine (Refer the Video in Youtube 'How to Clone Projects in Eclipse from GitHub'.) Or Else Follow the Below Steps.</h4>
 <p>Step 1: Download the zip folder code and, </p>
 <p>Step 2: Extract the zip folder.</p>
+<strong>Note:</strong><p><i>After Extracting the project folder you should go to lib folder and execute all the querie in your MySQL workbench</i></p>
 <p>Step 3: Create one folder named 'Web Based EMS Project' in Your Loacl Machine either C or D any Drive.</p>
 <p>Step 4: Inside the 'Web Based EMS Project' folder you need to create one folder named 'EMS-Project'. </p>
 <p>Step 5: After creating the 'EMS-Project' Folder paste the Extracted code inside the 'EMS-Project' folder.</p>
